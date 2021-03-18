@@ -18,3 +18,5 @@
 코드 블럭 안
 ```
 * * *
+
+<img width="300" height="400" src="./png/cat.png"></ing>
