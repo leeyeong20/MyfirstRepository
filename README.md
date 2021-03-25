@@ -22,4 +22,4 @@
 <img width="300" height="400" src="./png/cat.png"></ing>
 
 ##
-<img width="300" height="400" src="./png/4주차 .png"></ing>
+<img width="300" height="400" src="./png/4주차.png"></ing>
